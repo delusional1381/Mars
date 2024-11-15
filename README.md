@@ -1,1 +1,2 @@
-# Mars
+Hi there! 
+Welcome to the Git
